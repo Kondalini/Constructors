@@ -5,7 +5,7 @@ public class Car {
     String color;
     int releaseYear;
     int horsePower;
-    boolean secondHandTick;
+    boolean secondHandTick = true;
 
 
     public Car(String name, String color, int releaseYear, int horsePower, boolean secondHandTick) {
