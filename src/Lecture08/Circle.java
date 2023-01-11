@@ -1,4 +1,4 @@
-package lecture09;
+package Lecture08;
 
 public class Circle extends Shape {
     @Override
